@@ -1,7 +1,7 @@
 ---
 title: "Style Guide"
 teaching: 10
-exercises: 0
+exercises: 0  
 questions:
 - "What style should be used for Carpentries lessons?"
 - "How are keyboard key combinations written?"
