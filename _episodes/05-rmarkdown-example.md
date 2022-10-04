@@ -19,7 +19,7 @@ keypoints:
 
 
 This episode demonstrates all the features that can be used when writing a
-lesson in [RMarkdown][r-markdown].
+lesson in [RMarkdown][r-markdown]. 
 
 When rendering a lesson written in RMarkdown, the lesson template does two
 things:
